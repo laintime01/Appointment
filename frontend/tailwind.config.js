@@ -4,8 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        buttonBgColor: '#0067FF',
-        buttonBgColorHover: '#0052CC',
+        primaryColor: '#0067FF',
         yellowColor: '#FFB60D',
         purpleColor: '#9771FF',
         irisBlueColor: '#01B5C5',
